@@ -1,0 +1,15 @@
+{
+  "name": "newhome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "sw-precache --config=sw-precache-config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sw-precache": "^4.3.0"
+  }
+}
