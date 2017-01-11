@@ -8,4 +8,3 @@ What I did, I cache the shell in the service worker and reload it everytime in t
 - Open in visual studio 2015
 - npm install
 - Run project
-
